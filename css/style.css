@@ -1,0 +1,22 @@
+body {
+  text-align : center;
+  font-family: 'DotGothic16', sans-serif;
+}
+.main img {
+  width : 70%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 24px;
+  font-family: 'DotGothic16', sans-serif;
+}
+.title {
+  font-size: xx-large;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
