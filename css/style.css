@@ -1,6 +1,8 @@
 body {
   text-align : center;
   font-family: 'DotGothic16', sans-serif;
+  color: navy;
+  background-image: url("https://images.daznservices.com/di/library/DAZN_News/ae/e/20210424kashima_gnt7nsxmpkwq1fjxndnhu6ldj.jpg?t=323223049&quality=60&w=1600");
 }
 .main img {
   width : 70%;
@@ -13,6 +15,7 @@ button {
   margin: 10px auto;
   font-size: 24px;
   font-family: 'DotGothic16', sans-serif;
+  color: blue;
 }
 .title {
   font-size: xx-large;
